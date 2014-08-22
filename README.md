@@ -1,4 +1,4 @@
 Json_data
 =========
 
-Essential Hotels Data
+get Data out of wordpress
